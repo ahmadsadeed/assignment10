@@ -1,0 +1,28 @@
+{
+    "bestplayers": [
+        {
+            "name": "Rafael Nadal",
+
+            "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur volutpat mollis leo, nec cursus purus blandit a. Curabitur vehicula libero a vestibulum maximus. Duis porta, enim non dapibus semper, mi neque suscipit tellus, a porta leo augue id neque. Quisque vitae convallis odio. Aliquam ipsum enim, pretium id augue sed, tempus convallis augue. Nullam dapibus a quam vel sagittis. Proin rutrum ipsum at nisl feugiat luctus. In et auctor lorem. Suspendisse id faucibus ex, et fringilla velit."
+  },
+        {
+            "name": "Leo Messi",
+            "details": "Ut at laoreet nibh, non accumsan ipsum. Quisque id orci non tortor blandit suscipit sit amet sit amet lorem. Pellentesque interdum consequat lacus, et sodales ligula sagittis maximus. Aliquam placerat dolor turpis. Nam sodales placerat ligula ut ullamcorper. Aenean risus est, aliquet convallis volutpat eu, faucibus sit amet purus. Aliquam vitae rhoncus erat. Vestibulum nec odio tristique, dictum mi ac, sodales neque. Aenean vestibulum egestas massa. Interdum et malesuada fames ac ante ipsum primis in faucibus."
+},
+
+        {
+            "name": "Mike Tyson",
+            "details": "ulla nibh sapien, hendrerit in enim eget, consectetur efficitur enim. Etiam volutpat enim vel eros fringilla fringilla. In malesuada, urna a faucibus mattis, nisi nulla egestas nulla, id mattis leo orci non lectus. Cras sem nibh, elementum eu tincidunt vitae, feugiat id erat. Nullam diam dui, ultricies at felis in, hendrerit gravida leo. Fusce efficitur tortor vel laoreet tempor. Maecenas molestie odio et porttitor blandit."
+},
+
+        {
+            "name": "Chris Gayle",
+            "details": "Quisque sit amet tellus mauris. Aenean congue augue eu justo dignissim, in ultrices leo venenatis. Fusce feugiat libero pulvinar ex volutpat viverra. Aenean eleifend, mi at sagittis rhoncus, tellus erat ornare turpis, ut dignissim lacus eros ut justo. Maecenas luctus quis augue at tincidunt. Maecenas nec purus ut leo condimentum ullamcorper non ac felis. Sed sit amet aliquet augue. Proin convallis libero non accumsan aliquet. Phasellus commodo ligula tellus, eu ultrices nisl lobortis tristique. Vestibulum ut varius felis."
+},
+
+        {
+            "name": "Sadeed",
+            "details": "Cras tempor mattis mauris, sit amet suscipit arcu vulputate ac. In ornare fringilla dui, vitae sagittis ipsum fermentum a. Aliquam hendrerit vulputate nulla, non vehicula purus convallis et. Ut quis euismod quam. Aenean nisi magna, pharetra sit amet nibh nec, sodales suscipit metus. Mauris quis semper lorem, rhoncus gravida augue. Cras a augue nunc. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nunc accumsan est in quam placerat, vel facilisis nunc auctor. Etiam nec vehicula ipsum, at vulputate felis. Proin nec sapien leo."
+}
+    ]
+}
